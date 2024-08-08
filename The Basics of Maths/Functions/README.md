@@ -22,3 +22,15 @@ Evaluate \( f(x) = x^2 - 4x + 4 \) at \( x = 3 \):
 \[
 f(3) = 3^2 - 4(3) + 4 = 9 - 12 + 4 = 1
 \]
+
+## Functions with Two Variables
+
+Functions can also depend on two variables, written as \( f(x, y) \). For example, \( f(x, y) = x^2 + y^2 \).
+
+### Example
+
+Evaluate \( f(x, y) = x^2 + y^2 \) at \( x = 1 \), \( y = 2 \):
+
+\[
+f(1, 2) = 1^2 + 2^2 = 1 + 4 = 5
+\]
