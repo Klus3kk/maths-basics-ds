@@ -8,7 +8,7 @@ You'll need Python 3 installed on your system, along with some common data scien
 ```
 pip install numpy scipy sympy scikit-learn
 ```
-You should be already familiar with programming in Python, but it isn't necessary
+You should be already familiar with programming in Python, but it isn't necessary.
 ## Chapters
 The repository is divided into six chapters, with the inclusion of the code examples:
 * The Basics of Maths
