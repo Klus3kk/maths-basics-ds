@@ -19,3 +19,4 @@ The repository is divided into six chapters, with the inclusion of the code exam
 * Neural Networks
 ## Contributions
 If you have improvements, ideas, or find any errors, feel free to open an issue or submit a pull request. Contributions are always welcome!
+
